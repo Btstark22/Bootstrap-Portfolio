@@ -1,1 +1,30 @@
+*{
+  box-sizing: border-box;
+  text-align: center;
+}
 
+#logo {
+    float: left;
+    width: 100px;
+    height: 90px;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 60px;
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+    background: #584aaa;
+  }
+  
+  #right {
+    float: right;
+    width: 50%;
+    text-align: right;
+  }
+
+  #aboutme {
+    width: 300px;
+    margin: 30px;
+    box-sizing: border-box;
+  }
